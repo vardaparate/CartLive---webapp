@@ -1,0 +1,58 @@
+.c1 {
+    flex: display;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    border: black 1px solid;
+}
+
+.c2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.c3 {
+    flex: display;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.c6 {
+    flex: display;
+    margin: auto;
+    height:fit-content;
+    width:fit-content;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.c8 {
+    flex: display;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.c9 {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 3px;
+}
+.c9:hover {
+    cursor: pointer;
+}
+
+.c7 {
+    flex: display;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    margin-top: 30px;
+}
